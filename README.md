@@ -21,10 +21,6 @@
 | Interact     | E |
 | Pause        | Esc |
 
-## 📥 How to Try It Out
-1. **Download the latest prototype build** from the [Releases](https://github.com/your-repo/last-night-of-hastami/releases) page.
-2. Extract the files to any folder.
-3. Run `LastNightOfHastami.exe` (Windows) or `LastNightOfHastami` (Mac/Linux) to test it.
 
 ## 🏗️ Development Status
 This is a prototype built with **Unity** and **C#**. The goal is to test core mechanics before expanding further. Expect rough edges, placeholder assets, and lots of iteration.
